@@ -1,0 +1,5 @@
+[2024-04-13 14:47:11] Copying directory source\New folder to replica\New folder
+[2024-04-13 14:47:11] Copying directory source\new_folder2 to replica\new_folder2
+[2024-04-13 14:47:11] Copying source\test_doc.txt to replica\test_doc.txt
+[2024-04-13 14:48:11] Updating replica\test_doc.txt
+[2024-04-13 14:48:21] Deleting replica\New Text Document.txt
